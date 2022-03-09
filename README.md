@@ -1,1 +1,1 @@
-# Birthday-Invitations-Generator-
+# Auto-Generating-Invitations
