@@ -1,4 +1,4 @@
-Project Name: Birthday Invitation Letter Generator
+## Project Name: Birthday Invitation Letter Generator
 
 Description:
 This project generates personalized birthday invitation letters for a list of invited guests. It takes a list of names from a file named "invited_names.txt" located in the "Input/Names" directory. For each name in the list, it creates a separate invitation letter with the recipient's name filled in. The generated letters are stored in individual text files in the "Output/ReadyToSend" directory.
